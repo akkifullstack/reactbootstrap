@@ -1,0 +1,12 @@
+.navlink{
+    background: black;
+    padding:15px;
+}
+.link{
+    color:white;
+    margin:0px 20px;
+
+}
+.link:hover{
+    color:pink;
+}
